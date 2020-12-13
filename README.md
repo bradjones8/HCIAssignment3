@@ -1,6 +1,9 @@
 # HCIAssignment3
 Repository for Figma Prototype for Human-Computer Interaction Assignment 3
 <br><br>
+<p>Link to Revised Figma Prototype<p><br>
+  <p>https://www.figma.com/file/T2sd5fJLWBRuZxhlIhXSaH/BradleyJones-Assignment3?node-id=0%3A1<p>
+
 <p>Sources<p><br>
   <p>[1]	Health Canada, Santé Canada. “COVID Alert - Apps on Google Play.” Google, Google, 2020, play.google.com/store/apps/details?id=ca.gc.hcsc.canada.stopcovid.
 [2]	Health Canada, Santé Canada. “Canada COVID-19 - Apps on Google Play.” Google, Google, 2020, play.google.com/store/apps/details?id=ca.gc.hcsc.canada.covid19. 
